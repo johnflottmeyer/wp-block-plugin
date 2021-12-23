@@ -1,0 +1,14 @@
+/**
+ * #.# Editor Styles
+ *
+ * CSS for just Backend enqueued after style.scss
+ * which makes it higher in priority.
+ */
+
+.wp-block-cta-block-cta-block {
+  background: #d6f279;
+    border: 0.2rem dotted #292929;
+    margin: 0 auto;
+    padding: 1rem;
+    text-align: center;
+}
